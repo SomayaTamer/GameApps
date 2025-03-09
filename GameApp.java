@@ -2,7 +2,7 @@
  * Somaya Tamer Magdy Shoaib
  * ID: 20231225
  * email:somayatamer2015@gmail.com
- * Project Discreption : A game app that includes the games Hangman and Mastermind
+ * Project Discreption : A game app that includes the games Hangman and Mastermind. Hangman is implemented in both terminal and GUI.
  * Project github : https://github.com/SomayaTamer/GameApps
  */
 
